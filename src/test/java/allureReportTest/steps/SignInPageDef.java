@@ -1,7 +1,7 @@
-package by.peshkur.allure.steps;
+package allureReportTest.steps;
 
-import by.peshkur.allure.config.UserConfig;
-import by.peshkur.allure.pages.SignInPage;
+import allureReportTest.config.UserConfig;
+import allureReportTest.pages.SignInPage;
 
 import io.cucumber.java.en.Then;
 

@@ -1,4 +1,4 @@
-package by.peshkur.allure.app_context;
+package allureReportTest.app_context;
 
 import java.util.HashMap;
 import java.util.Map;

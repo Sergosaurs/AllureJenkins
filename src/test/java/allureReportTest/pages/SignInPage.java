@@ -1,4 +1,4 @@
-package by.peshkur.allure.pages;
+package allureReportTest.pages;
 
 import com.codeborne.selenide.SelenideElement;
 import org.openqa.selenium.By;
@@ -6,8 +6,8 @@ import org.openqa.selenium.By;
 import static com.codeborne.selenide.Selenide.$;
 
 public class SignInPage {
-    private SelenideElement loginInput = $(By.cssSelector("#form_email"));
-    private SelenideElement passwordInput = $(By.cssSelector("#form_password"));
+    private SelenideElement loginInput = $(By.cssSelector("#email"));
+    private SelenideElement passwordInput = $(By.cssSelector("#password"));
 
     public void inputLogin(String text) {
         this.loginInput.val(text);

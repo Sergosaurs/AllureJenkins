@@ -1,6 +1,6 @@
-package by.peshkur.allure.steps;
+package allureReportTest.steps;
 
-import by.peshkur.allure.pages.BasicPage;
+import allureReportTest.pages.BasicPage;
 import io.cucumber.java.en.Then;
 
 public class BasicPageDef {

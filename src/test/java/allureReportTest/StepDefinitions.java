@@ -1,4 +1,4 @@
-package by.peshkur.allure;
+package allureReportTest;
 
 public class StepDefinitions {
 

@@ -1,4 +1,4 @@
-package by.peshkur.allure.pages;
+package allureReportTest.pages;
 
 import com.codeborne.selenide.Condition;
 import org.openqa.selenium.By;

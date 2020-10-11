@@ -1,4 +1,4 @@
-package by.peshkur.allure;
+package allureReportTest;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
